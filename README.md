@@ -4,3 +4,5 @@ This is an attempt.
 **多益网络**
 
 [游戏奋斗者](https://www.duoyi.com)
+
+*产品策划 or 软件测试*
